@@ -1,5 +1,7 @@
 # fire-gallery
 
+##[Live demo](https://fire-gallery-0.firebaseapp.com/)
+
 A photo gallery using react-photo-gallery and a Firebase Database for image information.
 
 ## Get Started
