@@ -1,0 +1,15 @@
+{
+  "images" : [ null, {
+    "height" : 1200,
+    "src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg",
+    "width" : 1200
+  }, {
+    "height" : 440,
+    "src" : "https://www.petmd.com/sites/default/files/petmd-cat-happy-10.jpg",
+    "width" : 670
+  }, {
+    "height" : 400,
+    "src" : "http://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg",
+    "width" : 600
+  } ]
+}
