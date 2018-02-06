@@ -1,6 +1,6 @@
 # fire-gallery
 
-A photo gallery using react-photo-gallery and a Firebase Database for image information.
+A photo gallery using [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) and a Firebase Database for image information.
 [Click here to see a live demo.](https://fire-gallery-0.firebaseapp.com/)
 
 ## Get Started
