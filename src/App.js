@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Gallery from 'react-photo-gallery';
-import logo from './heart.svg';
+import logo from './fire.svg';
 import './App.css';
 import Feb14App from './firebaseConfig.js';
 import * as firebase from 'firebase';
